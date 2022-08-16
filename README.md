@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Gayathri S 👋🇮🇳 
 
-<!--
-**gayathris99/gayathris99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working as a Frontend Developer. I work mainly on the Vue.js/Quasar Framework. I know a little bit of React too 😀
+- 🌱 I’m currently learning more on frontend and backend technologies from scratch. I would love to be a full stack developer
+- 👯 I’m looking to collaborate with anyone who would want a pretty website.
+- 📫 How to reach me: 
+---> LinkedIn - https://www.linkedin.com/in/gayathris99/
+--> Email -  gayathri11499@gmail.com
+- ⚡ Fun fact: Apart from coding, I also love to listen to podcasts varying from history to geopolitics to wildlife 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Thanks for your time! Adios!
