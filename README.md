@@ -1,7 +1,7 @@
 ### Hi there, I'm Gayathri S 👋🇮🇳 
 
 
-- 🔭 I’m currently working as a Frontend Developer. I work mainly on the Vue.js/Quasar Framework. I know a little bit of React too 😀
+- 🔭 I’m currently working as a Frontend Developer. I work mainly on Vue.js/Quasar Framework. I know a little bit of React too 😀
 - 🌱 I’m currently learning more on frontend and backend technologies from scratch. I would love to be a full stack developer
 - 👯 I’m looking to collaborate with anyone who would want a pretty website.
 - 📫 How to reach me: 
