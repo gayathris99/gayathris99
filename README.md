@@ -7,7 +7,6 @@
 - 📫 How to reach me: 
 ---> LinkedIn - https://www.linkedin.com/in/gayathris99/
 --> Email -  gayathri11499@gmail.com
-- ⚡ Fun fact: Apart from coding, I also love to listen to podcasts varying from history to geopolitics to wildlife 
 
 
 Thanks for your time! Adios!
